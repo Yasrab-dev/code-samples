@@ -1,18 +1,18 @@
 <?php
  /**
   * Plugin Name: Rates
-  * Plugin URI: http://mbilaal.com
+  * Plugin URI: https://yasrab.site/
   * Description: Rates
   * Version: The Plugin's Version Number, e.g.: 1.0
-  * Author: Ben Peterson
-  * Author URI: http://mbilaal.com
+  * Author: Yasrab
+  * Author URI: https://yasrab.site/
   * License: A "Slug" license name e.g. GPL2
-  * Copyright M Bilal.
+  * Copyright Yasrab.
   * This file contains the Slider
   * used by Gravity forms
   * included by client scripts.
   *
-  * @author M Bilal
+  * @author Yasrab
   * @version 3.09
   * @package
   *
